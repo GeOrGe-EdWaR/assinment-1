@@ -1,0 +1,16 @@
+.card-img{
+  border-radius: 100%;
+}
+
+.Hover{
+  cursor: pointer;
+  transition: 0.5s;
+}
+.Hover:hover{
+  transform: scale(1.1);
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+  padding: 5px;
+  margin: 5px;
+}
